@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elles_stuff:magma_residue"
+    },
+    {
+      "item": "elles_stuff:magma_residue"
+    },
+    {
+      "item": "elles_stuff:magma_residue"
+    },
+    {
+      "item": "elles_stuff:magma_residue"
+    }
+  ],
+  "result": {
+    "item": "minecraft:magma_cream"
+  }
+}

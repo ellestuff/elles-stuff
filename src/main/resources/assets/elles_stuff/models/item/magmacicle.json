@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "elles_stuff:item/magmacicle"
+  }
+}

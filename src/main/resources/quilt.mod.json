@@ -1,8 +1,8 @@
 {
 	"schema_version": 1,
 	"quilt_loader": {
-		"group": "com.example",
-		"id": "ellesstuff",
+		"group": "com.ellestuff",
+		"id": "elles_stuff",
 		"version": "${version}",
 		"metadata": {
 			"name": "elle's stuff",
@@ -16,11 +16,11 @@
 				"issues": "https://github.com/ellestuff/elles-stuff/issues",
 				"sources": "https://github.com/ellestuff/elles-stuff"
 			},
-			"icon": "assets/example_mod/icon.png"
+			"icon": "assets/elles_stuff/icon.png"
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "com.example.example_mod.ExampleMod"
+			"init": "com.ellestuff.elles_stuff.EllesStuff"
 		},
 		"depends": [
 			{
@@ -37,5 +37,5 @@
 			}
 		]
 	},
-	"mixin": "example_mod.mixins.json"
+	"mixin": "elles_stuff.mixins.json"
 }

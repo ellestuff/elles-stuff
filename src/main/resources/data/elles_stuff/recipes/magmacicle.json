@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C",
+    "S "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:magma_cream"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "elles_stuff:magmacicle"
+  }
+}
