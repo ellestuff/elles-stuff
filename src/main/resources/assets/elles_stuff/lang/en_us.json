@@ -3,9 +3,11 @@
   "item.elles_stuff.magma_residue": "Magma Residue",
 
   "item.elles_stuff.slimecicle": "Slimecicle",
-  "item.elles_stuff.slimecicle.tooltip": "Desperate times call for...",
-  "item.elles_stuff.slimecicle.tooltip2": "\"What's up, mothershuckers?\"",
+  "item.elles_stuff.slimecicle.tooltip": "\"What's up, mothershuckers?\"",
 
   "item.elles_stuff.magmacicle": "Magmacicle",
-  "item.elles_stuff.magmacicle.tooltip": "...desperate measures."
+
+  "block.elles_stuff.cobblestone_paving": "Cobblestone Paving",
+
+  "entity.elles_stuff.choruslime": "Choruslime"
 }

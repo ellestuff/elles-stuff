@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "elles_stuff:block/cobblestone_paving"
+  }
+}
