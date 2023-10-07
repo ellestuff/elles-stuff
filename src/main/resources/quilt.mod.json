@@ -12,7 +12,7 @@
 			},
 			"license": "CC0-1.0",
 			"contact": {
-				"homepage": "https://ellestuff.carrd.co/",
+				"homepage": "https://ellestuff.neocities.com/",
 				"issues": "https://github.com/ellestuff/elles-stuff/issues",
 				"sources": "https://github.com/ellestuff/elles-stuff"
 			},
@@ -20,7 +20,8 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "com.ellestuff.elles_stuff.EllesStuff"
+			"init": "com.ellestuff.elles_stuff.EllesStuff",
+			"client_init": "com.ellestuff.elles_stuff.ClientStuff"
 		},
 		"depends": [
 			{
