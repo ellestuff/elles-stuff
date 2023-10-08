@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elles_stuff:choruslime_residue"
+    },
+    {
+      "item": "elles_stuff:choruslime_residue"
+    },
+    {
+      "item": "elles_stuff:choruslime_residue"
+    },
+    {
+      "item": "elles_stuff:choruslime_residue"
+    }
+  ],
+  "result": {
+    "item": "elles_stuff:choruslime_chunk"
+  }
+}

@@ -1,11 +1,16 @@
 {
   "item.elles_stuff.slime_residue": "Slime Residue",
-  "item.elles_stuff.magma_residue": "Magma Residue",
-
   "item.elles_stuff.slimecicle": "Slimecicle",
   "item.elles_stuff.slimecicle.tooltip": "\"What's up, mothershuckers?\"",
 
+  "item.elles_stuff.magma_residue": "Magma Residue",
   "item.elles_stuff.magmacicle": "Magmacicle",
+
+  "item.elles_stuff.choruslime_chunk": "Choruslime Chunk",
+  "item.elles_stuff.choruslime_residue": "Choruslime Residue",
+  "item.elles_stuff.chorusicle": "Chorusicle",
+
+  "item.elles_stuff.choruslime_spawn_egg": "Choruslime Spawn Egg",
 
   "block.elles_stuff.cobblestone_paving": "Cobblestone Paving",
 
